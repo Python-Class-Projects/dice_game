@@ -1,1 +1,2 @@
 # dice_game
+a dice game program that allows the user to press enter to begin the game. When enter is pressed, 2 dices are rolled. The total is then accumulated and the total converts into the target for which the user needs to roll again to win. If the first roll totals to a 7 or 11, the player wins on the first try. If the total is a 2, 3, or a 12 on the first try,the player loses on the first try. If any other number is rolled on the first try, continue the game until the player rolls the target to win. If the player rolls a 7 after the first roll, the player loses.  
